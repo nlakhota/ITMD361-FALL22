@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Project 1: Favorite Movies/Shows</title>
+<h1 style="text-align:center"><em>Favorite Movies/Shows</em></h1>
+<h4 style="text-align: center;"><a href="aboutme.html"> -- About Me -- </a></h4>
+<h4 style="text-align: center;"><a href="sports.html"> -- Favorite Sports -- </a></h4>
+<body>
+    <h3><em>Friends: 1994-2004</em></h3>
+    <p>My favorite show of all time. Friends showcases the ups and downs of life with alot of laughter in between. It shows banter and fun among friends.
+          In 1994, the idea was created for "Friends": a show about six friends in New York as they navigate their way through life and learn to grow up as they approach the third decade of their life.
+          Friends made me laught alot and really helps you step out of stress in your life and helps you understand that nothing is as bad as it seems.
+    </p>
+    <p style="text-align:center"><img src="friends.jpg" alt="Friends" width="700" height="500"></p>
+    <h3><em>Wrath of Man: 2021</em></h3>
+    <p>One of my favorite movies is Wrath of man because it's attention to detail and how everything adds up at the end makes it satifying.
+        It's a movie about a gangster's son who runs LA being murdered by a gang of thieves robbing an armored truck carrying millions of dollars.
+        Although the dad was shot many times, he lived and he comes up with an elaborate plan to get revenge on his son, and find out who killed him. This movie showcases the blood bond between a father and son, and also how far that bond takes the dad to revenge upon his son.
+        Wrath of man premiered in 2021, Jason Statham playing the main character!
+    </p>
+    <p style="text-align: center;"><img src="wom.jpg" alt="Wrath of Man Cover" width="700" height="500"></p>
+</body>
+</html>
