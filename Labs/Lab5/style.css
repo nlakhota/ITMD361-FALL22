@@ -1,0 +1,35 @@
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body{
+    background: url(saturn.jpeg) bottom right no-repeat,
+    url(saturn.jpeg) bottom left no-repeat,
+    url(saturn.jpeg) top right no-repeat,
+    url(saturn.jpeg) top left no-repeat,
+    radial-gradient(circle, gray, blue);
+}
+
+h2{
+    text-align: center;
+    color: whitesmoke;
+}
+
+table, th, td{
+    border: 1px solid gray;
+    text-align: center;
+    border-collapse: collapse;
+    color: white;
+}
+
+th, td{
+    padding: 20px;
+}
+
+tr:nth-child(even){
+    background-color: aqua;
+}
+tr:nth-child(odd){
+    background-color: silver;
+}
