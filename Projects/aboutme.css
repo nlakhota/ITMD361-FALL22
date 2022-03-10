@@ -37,10 +37,6 @@ header::after {
   clear: both;
 }
 
-nav {
-  float: center;
-}
-
 nav ul {
   margin: 5px 0;
   padding: 10px 0;
