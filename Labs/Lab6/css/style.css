@@ -4,9 +4,9 @@
 }
 
 #navbar-container{
-    float: left;
     width: 100%;
     position: relative;
+    float: left;
 }
 
 #navbar-container ul{
@@ -19,10 +19,10 @@
 }
 
 #navbar-container ul li{
-    float: left; 
     position: relative; 
     right: 50%;
     display: block;
+    float: left; 
 }
 
 #navbar-container ul li a:hover{
