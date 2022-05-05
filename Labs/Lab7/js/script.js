@@ -1,13 +1,11 @@
-function init(){
-    //add your javascript between these two lines of code
-    function alertFunction(){
-        var text = document.getElementById("entryinput").value;
-        var text2 = document.getElementById("textoutput");
-        alert("Nakibuddin Nasiruddin Lakhota: " + text);
-        document.getElementById("textoutput").innerHTML = text
+function init() {
+    function alertFunction() {
+        var txt = document.getElementById("entryinput").value;
+        alert("Nakibuddin Lakhota:" + txt);
+        document.getElementById("textoutput").innerHTML = txt
     }
     var button = document.getElementById('entrybutton');
     button.addEventListener('click', alertFunction);
-}
 
-    window.addEventListener('load', init);
+}
+window.addEventListener('load', init);
